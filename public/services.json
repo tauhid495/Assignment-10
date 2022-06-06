@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Dhaka - Bandarban - Dhaka",
+        "price": "7600",
+        "description": " 4 Nights / 3 Days / | Visit Sangu River, Swarna Mandir, Chakma Rajbari, Meghla Garden",
+        "detail": " Leave Dhaka by reserved car/coach for Bandarban. Hotel check in and refresh. After lunch, short sightseeing of Bandarban. Evening.. Back to hotel. Overnight at Bandarban.tart our journey to Nilgiri, This day we also visit Chimbuk and Shoilopropat. Back to the hotel. Overnight at Bandarban.This day we visit Sangu River, Swarna Mandir, Chakma Rajbari, Meghla Garden. At evening, leave Bandarban for Dhaka.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Nilachol%2C_Bandarban%2C_Bangladesh.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tour to Capital City of Bangladesh",
+        "price": "2500",
+        "description": "Explore The Capital City of Bangladesh, DHAKA - Historical And Cultural Treasure Of Bangladesh",
+        "detail": "Explore The Capital City of Bangladesh, DHAKA - Historical And Cultural Treasure Of Bangladesh.We start this tour any time of the day and the duration will be 6 to 7 hours. Tour guide will pick you up from your nominated place / hotel and the tour will move through the destinations below",
+        "img": "https://travel.discoverybangladesh.com/images/dest-gallery-dhaka.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tour To Nearest Rivers of Capital ",
+        "price": "150",
+        "description": "Exclusive River Cruise on Shitalakhya River Near Dhaka - Enjoy Riverine Beauty Bangladesh.",
+        "detail": "Exclusive River Cruise on Shitalakhya River Near Dhaka - Enjoy Riverine Beauty Bangladesh. Upon your boarding the boat will start cruising up of the river immediately and tea-snacks will be served. This river and also the riverbank are full of activities, which will give you pleasure and full fill your photographic interest. You will love to see the engine boats caring vegetable, seasonal fruits and so many. You will see fishing with different type of fishing net and trap. At the same time you will enjoy the livelihood of the people living at the side of the river. We should not mention all the possible scenes you might see so that you can discover those on your own and have fun.",
+        "img": "https://travel.discoverybangladesh.com/images/shitalokkhya.jpg"
+    }
+]

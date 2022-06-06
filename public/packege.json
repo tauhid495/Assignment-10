@@ -1,0 +1,38 @@
+[
+    {
+        "id": "625d32f760b74ea34263cae3",
+        "index": 0,
+        "price": "9100",
+        "picture": "../src/components/images/cardpic/card1.jpg",
+        "title": "Dhaka-Rangamati-Bandarban-Dhaka",
+        "description": "4 Nights /  3 Days | Visit Sangu River, Swarna Mandir and Chakma Rajbari Chimbuk and Shoilopropat.",
+        "detail": "Day-1: Leave Dhaka for Rangamati by reserved car/coach - Overnight journey. Day-2: Hotel check in and refresh. Start cruise on kaptai lake, go to Subholong by boat, see Hanging Bridge, visit Peda Ting Ting and Tuk Tuk Eco Village. Evening.. Back to hotel. Overnight at Rangamati. Day-3: At morning, After breakfast, pack-up bag and baggage's start journey to Hill district Bandarban. Transfer to the hotel. After lunch, we visit Sangu River, Swarna Mandir and Chakma Rajbari. Evening.. Back to hotel. Overnight at Bandarban. Day-4: After breakfast, start our journey to Nilgiri, This day we also visit Chimbuk and Shoilopropat. After dinner, Start for Dhaka by Night Coach. Overnight Journey."
+    },
+    {
+        "id": "625d32f79cf039ba6b8e8d99",
+        "index": 1,
+        "price": "6700",
+        "picture": "../src/components/images/cardpic/card2.jpg",
+        "title": "Dhaka - St. Martin - Cox's Bazar - Dhaka",
+        "description": "4 Nights / 3 Days | Visit Inani Beach, Himchhari Falls, coxs bazar sea beach Enjoy Martins Island - watch the memorable sunset",
+        "detail": "Day-1: At 10.00 pm, Leave Dhaka for Cox's Bazar. Overnight Journey. Day-2: Reach Cox's Bazar at 08.30 am. Breakfast and short beach tour. After lunch, start journey to Inani Beach, Himchhari Falls. Back to coxs bazar sea beach. Enjoy Sunset and night beach, Overnight at Cox's Bazar. Day-3: At morning, After breakfast, pack-up bag and baggage's start journey to Hill district Bandarban. Transfer to the hotel. After lunch, we visit Sangu River, Swarna Mandir and Chakma Rajbari. Evening.. Back to hotel. Overnight at Bandarban. Day-4: Enjoy the beauty of sunrise from the beach in early morning. After Breakfast, Start journey to Chhera Dwip. Spend some times there, enjoy the living corals and small fishes swimming. Back to St. Martins Island. After lunch start for Teknaf by sea truck. Start for Dhaka by Night Coach. Overnight Journey."
+    },
+    {
+        "id": "625d32f76990ac42306fc08a",
+        "index": 2,
+        "price": "2200",
+        "picture": "../src/components/images/cardpic/card3.jpg",
+        "title": "River Cruise on Shitalakhya River Near Dhaka",
+        "description": "1 Days | River Cruise . Boat Trip . Nature Tour",
+        "detail": "Upon your boarding the boat will start cruising up of the river immediately and tea-snacks will be served. This river and also the riverbank are full of activities, which will give you pleasure and full fill your photographic interest. You will love to see the engine boats caring vegetable, seasonal fruits and so many. You will see fishing with different type of fishing net and trap. At the same time you will enjoy the livelihood of the people living at the side of the river. We should not mention all the possible scenes you might see so that you can discover those on your own and have fun.After 45 minutes we will anchor our boat in a place named Murapara. You will have a chance to get down there and have a walk through an Old Landlords house, which has been converted to an educational Institute (college) now. Under the British govt. it was an administrative unit lead by the local Landlord for the British. You will spend an hour for this side trip. After this we will continue the up journey until the lunch is ready. At around 1 pm, lunch will be served. Before that you can have a swimming session in a convenient place if you wish."
+    },
+    {
+        "id": "625d32f740d8e59014369598",
+        "index": 3,
+        "price": "2500",
+        "picture": "../src/components/images/cardpic/card4.jpg",
+        "title": "Sight Seeing Tour to Capital City of Bangladesh",
+        "description": "1 Days | Dhaka City Sight Seeing Tour Packages",
+        "detail": "SadarGhat: The crowded riverfront in the south most of the city. This is the gateway to enter the city from the Riverine southern districts of Bangladesh. Ahsan Monzil: Popularly known as pink palace, the residence of the then local Elite - khwaja family. Now it’s a museum hosting huge family things of the land lord family. LalBag Kella: This is the place actually Dhaka city started from. This was built by the Mughal prince Azam as the official residence of Mughal representative in Bengal."
+    }
+]
